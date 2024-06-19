@@ -5,6 +5,8 @@ from enum import Enum
 import subprocess
 import os
 
+# Author: Alexandros Bouzalas
+
 class Compiler(Enum):
     CLANG = "clang++"
     GCC = "g++"
