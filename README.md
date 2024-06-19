@@ -1,0 +1,1 @@
+This python script collects hpp libraries and adds the to the compiler command
